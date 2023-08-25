@@ -1,0 +1,21 @@
+.about-me .image-profile {
+  height: 180px;
+    width: 180px;
+  border: dashed 4px #296a89;
+  border-radius: 100%;
+}
+.about-me.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  max-width: 800px;
+}
+.about-me .divider{
+  margin: 20px 0;
+  width: 50%;
+  height: 1px;
+  background-color: #296a89;
+}
